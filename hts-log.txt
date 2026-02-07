@@ -1,0 +1,60 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 21 Apr 2025 11:14:43 at http://modelo18.ondatta.com.br +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" http://modelo18.ondatta.com.br -O1 "C:\Meus Sites\contabilidade" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:21:35	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/uploads/2022/01/depo-1.webp
+11:21:35	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/uploads/2022/01/depo-2.webp
+11:21:35	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/uploads/2022/01/depo-3.webp
+11:21:52	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/themes/contabil/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+11:21:52	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/themes/contabil/assets/fonts/fontawesome/webfonts/fa-brands-400.woff
+11:21:52	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/themes/contabil/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+11:21:52	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/themes/contabil/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+11:21:52	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/themes/contabil/assets/fonts/fontawesome/webfonts/fa-regular-400.woff
+11:21:52	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/themes/contabil/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+11:21:52	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/themes/contabil/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+11:21:52	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/themes/contabil/assets/fonts/fontawesome/webfonts/fa-solid-900.woff
+11:21:52	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/themes/contabil/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+11:21:52	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/themes/contabil/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0
+11:21:52	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/themes/contabil/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.4.0
+11:21:52	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/themes/contabil/assets/fonts/simple-line-icons/Simple-Line-Icons.woff?v=2.4.0
+11:21:53	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.31.0
+11:21:53	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.31.0
+11:21:53	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.31.0
+11:21:54	Warning: 	File not parsed, looks like binary: https://modelo18.ondatta.com.br/wp-content/uploads/2022/01/fundo-rodape.webp
+11:21:54	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+11:21:54	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+11:21:54	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+11:21:54	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+11:21:54	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+11:21:54	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+11:21:55	Warning: 	Moved Permanently for modelo18.ondatta.com.br/?p=11
+11:21:55	Warning: 	File has moved from modelo18.ondatta.com.br/?p=11 to http://modelo18.ondatta.com.br/sobre-nos/
+11:21:55	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/uploads/2022/01/aline.webp
+11:21:55	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/uploads/2022/01/juliana.webp
+11:21:55	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/uploads/2022/01/ronaldo.webp
+11:21:55	Warning: 	Moved Permanently for modelo18.ondatta.com.br/?p=12
+11:21:55	Warning: 	File has moved from modelo18.ondatta.com.br/?p=12 to http://modelo18.ondatta.com.br/servicos/
+11:21:55	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/uploads/2022/01/aline-serv.webp
+11:21:55	Warning: 	Moved Permanently for modelo18.ondatta.com.br/?p=340
+11:21:55	Warning: 	File has moved from modelo18.ondatta.com.br/?p=340 to http://modelo18.ondatta.com.br/abrir-empresa/
+11:21:55	Warning: 	File not parsed, looks like binary: modelo18.ondatta.com.br/wp-content/uploads/2022/01/img-abertura-1.webp
+11:21:55	Warning: 	Moved Permanently for modelo18.ondatta.com.br/?p=13
+11:21:55	Warning: 	File has moved from modelo18.ondatta.com.br/?p=13 to http://modelo18.ondatta.com.br/noticias/
+11:21:57	Error: 	"Error when decompressing" (-1) at link modelo18.ondatta.com.br/noticias-contabeis/depois-do-burnout-o-novo-risco-ao-trabalho-e-o-%e2%80%9cboreout%e2%80%9d;-conheca/5d87e1c2-cb58-4279-bd82-b81f16c888e0/ (from modelo18.ondatta.com.br/noticias/)
+11:21:57	Warning: 	Moved Permanently for modelo18.ondatta.com.br/?p=16
+11:21:57	Warning: 	File has moved from modelo18.ondatta.com.br/?p=16 to http://modelo18.ondatta.com.br/contato/
+11:21:58	Warning: 	Moved Permanently for modelo18.ondatta.com.br/?p=14
+11:21:58	Warning: 	File has moved from modelo18.ondatta.com.br/?p=14 to http://modelo18.ondatta.com.br/noticias-contabeis/
+11:21:58	Error: 	"Method Not Allowed" (405) at link modelo18.ondatta.com.br/xmlrpc.php (from modelo18.ondatta.com.br/politica-de-privacidade/)
+11:21:58	Warning: 	Moved Permanently for modelo18.ondatta.com.br/?p=3
+11:21:58	Warning: 	File has moved from modelo18.ondatta.com.br/?p=3 to http://modelo18.ondatta.com.br/politica-de-privacidade/
+11:21:58	Warning: 	Moved Permanently for modelo18.ondatta.com.br/?p=10
+11:21:58	Warning: 	File has moved from modelo18.ondatta.com.br/?p=10 to http://modelo18.ondatta.com.br/termos-de-uso/
+11:21:58	Warning: 	File not parsed, looks like binary: https://modelo18.ondatta.com.br/wp-content/uploads/2022/01/img-abertura-2.webp
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 15 seconds : 239 links scanned, 227 files written (20575612 bytes overall) [17857038 bytes received at 41050 bytes/sec], 3530967 bytes transferred using HTTP compression in 92 files, ratio 19%, 2.7 requests per connection
+(2 errors, 47 warnings, 0 messages)
